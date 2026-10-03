@@ -1,0 +1,10 @@
+OHARA - file del sito
+
+Contenuto della cartella (carica TUTTI i file, tenendoli insieme nella stessa cartella):
+  index.html            l'app
+  manifest.webmanifest  nome e icona quando viene aggiunta alla schermata Home
+  sw.js                 permette di aprirla anche senza connessione
+  icon-192.png, icon-512.png, apple-touch-icon.png   icone
+
+Come metterla online (gratis): vedi i passaggi nella chat.
+I dati di ogni persona restano nel suo browser: nessuno vede quelli degli altri.
